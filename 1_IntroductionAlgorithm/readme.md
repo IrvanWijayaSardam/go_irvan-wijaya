@@ -14,9 +14,9 @@ sebuah aplikasi, agar nantinya kita dapat menghadapi masalah masalah saat kita m
 - Dasar Algoritma
     Dalam penyusunan algoritma terdapat 3 komponen utama
     1. Sequential : Urutan dalam menyusun langkah langkah untuk menyelesaikan sebuah masalah
-    2. Branching :
-    3. Looping :
+    2. Branching : digunakan untuk menentukan sebuah alur atau flow pada program
+    3. Looping : konsep untuk melakukan sebuah aksi secara berulang sampai dengan suatu kondisi terpenuhi
 
-- Pseudocode
+- Pseudocode : Pseudocode adalah deskripsi bahasa sederhana yang bisa kita gunakan untuk menggambarkan sebuah ide algoritma itu sendiri    
 
-- Flowchart
+- Flowchart : Flowchart adalah suatu bagan dengan simbol tertentu yang menggambarkan urutan dan hubungan antar proses secara mendetail.
