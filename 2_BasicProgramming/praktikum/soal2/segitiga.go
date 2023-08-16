@@ -6,16 +6,13 @@ import (
 
 func main() {
 	rows := 5
-
 	for i := 1; i <= rows; i++ {
 		for j := 1; j <= rows-i; j++ {
 			fmt.Print(" ")
 		}
-
 		for k := 1; k <= i; k++ {
 			fmt.Print("* ")
 		}
-
-		fmt.Println() // Pindah baris setelah setiap baris selesai dicetak
+		fmt.Println()
 	}
 }
