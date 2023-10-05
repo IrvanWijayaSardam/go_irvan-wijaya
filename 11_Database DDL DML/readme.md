@@ -13,6 +13,7 @@ Data Control Language (DCL) untuk mengelola izin dan hak akses pengguna terhadap
 Ada juga berbagai pernyataan operasi yang digunakan dalam SQL, yaitu:
 
 Insert: Digunakan untuk menyisipkan data baru ke dalam tabel.
+
 Select: Digunakan untuk mengambil data dari tabel.
 Update: Digunakan untuk memperbarui data yang ada dalam tabel.
 Delete: Digunakan untuk menghapus data dari tabel.
